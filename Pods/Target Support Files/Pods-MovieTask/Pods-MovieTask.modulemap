@@ -1,0 +1,6 @@
+framework module Pods_MovieTask {
+  umbrella header "Pods-MovieTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
